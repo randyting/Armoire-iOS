@@ -77,6 +77,8 @@ The above is the bare minimum that needs to be provided to ensure value is added
 ![Video Walkthrough 2](Armoire_Walkthrough_2.gif)
 ![Video Walkthrough 3](Armoire_Walkthrough_3.gif)
 ![Video Walkthrough 4](Armoire_Walkthrough_4.gif)
+![Video Walkthrough 5](Armoire_Walkthrough_5.gif)
+![Video Walkthrough 6](Armoire_Walkthrough_6.gif)
 
 Credits
 ---------
